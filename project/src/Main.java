@@ -3,7 +3,7 @@ import asteroids.GUI;
 /**
  * Created by User on 7/6/2016.
  */
-public class Main
+public class main
 {
 	public static void main(String[] args)
 	{
