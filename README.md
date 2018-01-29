@@ -1,2 +1,2 @@
 # java-asteroids
-An attempt at creating asteroids in Java within a couple hours.
+An attempt at creating an Asteroids clone in Java within a few hours for demonstration purposes.
